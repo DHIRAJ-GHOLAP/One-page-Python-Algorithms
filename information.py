@@ -1,3 +1,3 @@
 def HellowWorld(**msg):
   print(msg)
-HellowWorld(hellow)
+HellowWorld("I am print function")
